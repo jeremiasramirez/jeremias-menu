@@ -1,4 +1,4 @@
- 
+
 /*
 
  MENUS
@@ -44,9 +44,6 @@
    transition: .5s;
 }
 
-.menu--black li:hover {
-   background-color: #133;
-}
 
 .menu--black>li>a {
    color: #eee;
@@ -107,9 +104,7 @@ height: 67px;
    transition: .5s;
 }
 
-.menu--blue li:hover {
-   background-color: rgb(30, 69, 284, 880);
-}
+
 
 .menu--blue>li>a {
   color: #eee;
@@ -236,9 +231,6 @@ background-color: rgba(0%, 70%, 0%, 85%);
   transition: .5s;
 }
 
-.menu--green li:hover {
-   background-color: rgba(0%, 80%, 0%, 40%);
-}
 
 .menu--green>li>a {
   color: #eee;
@@ -301,10 +293,6 @@ height: 67px;
   transition: .5s;
 }
 
-.menu--red li:hover {
-   background-color: rgba(158, 44, 44, 0.808);
-}
-
 .menu--red>li>a {
   color: #eee;
   text-decoration-line: none;
@@ -363,9 +351,7 @@ height: 67px;
    transition: .5s;
 }
 
-.menu--white li:hover {
-   background-color: #9999;
-}
+
 
 .menu--white>li>a {
    color: #333;
@@ -428,9 +414,7 @@ height: 67px;
    transition: .5s;
 }
 
-.menu--pink li:hover {
-   background-color: rgba(197, 90, 134, 0.808);
-}
+
 
 .menu--pink>li>a {
   color: white;
@@ -495,9 +479,6 @@ height: 67px;
      transition: .5s;
 }
 
-.menu--orange li:hover {
-   background-color: rgba(155, 0, 0, 0.3);
-}
 
 .menu--orange>li>a {
   color: white;
